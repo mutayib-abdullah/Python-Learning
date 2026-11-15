@@ -1,7 +1,7 @@
 # a = -5
 # if not (a>=0):
 #     print('positive')
-# else:
+# else: 
 #     print('negative')
 # a = int(input('Enter a number: '))
 # if a%2==0:
