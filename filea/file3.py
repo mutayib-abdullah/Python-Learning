@@ -4,4 +4,4 @@ h = int(input('Enter h:'))
 
 area =  0.5 * (a * b) * h 
 
-print ('Area =' , area , "m²")
+print ('Area =' , area , "m²" )
