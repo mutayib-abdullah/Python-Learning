@@ -5,7 +5,7 @@
 #     print('hot')
 # else:
 #     print('cold')
-
+ 
 
 # amount = int(input('enter the amount: '))
 
