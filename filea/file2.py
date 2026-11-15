@@ -3,4 +3,4 @@ height = int(input('Enter height:'))
 
 area =  (base * height)/2
 
-print ('Area of Triangle=' , area , "m²")
+print ('Area of Triangle=' , area , "m²" )
